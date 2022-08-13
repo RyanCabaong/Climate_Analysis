@@ -1,5 +1,7 @@
 # Climate_Analysis
 Using Sqlite with Python
+
+
 Making lists from Temperatures (F) of June and December In Oahu, Hawaii.
 
 June Temperatures Statistics
